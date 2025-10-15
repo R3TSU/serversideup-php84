@@ -1,6 +1,6 @@
 # Versions
 # https://hub.docker.com/r/serversideup/php/tags?name=8.4-fpm-nginx-alpine3.22-v3.6.1
-ARG SERVERSIDEUP_PHP_VERSION=8.4-fpm-nginx-alpine
+ARG SERVERSIDEUP_PHP_VERSION=8.4-fpm-nginx-alpine3.22-v3.6.1
 # https://github.com/minio/mc/releases
 ARG MINIO_VERSION=RELEASE.2025-03-12T17-29-24Z
 # https://github.com/cloudflare/cloudflared/releases
